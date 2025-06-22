@@ -1,16 +1,19 @@
-# mobil_proje
+# Flutter GPA Calculator
 
-A new Flutter project.
+## A simple and responsive Flutter application that allows students to **calculate their GPA (Grade Point Average)** based on course grades and credit values.
 
-## Getting Started
+Flutter ile geliştirilmiş ders not ortalaması hesaplama uygulaması
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Add and remove course entries
+- Select course grade (e.g. A, B+, etc.)
+- Choose course credit value
+- Real-time GPA calculation
+- Light/Dark mode support (optional)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>
+<img src="assets/preview/preview.png" width="220"/> <img src="assets/preview/preview2.png" width="220"/>
+</p>
