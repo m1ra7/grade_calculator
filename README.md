@@ -1,7 +1,7 @@
 # Flutter GPA Calculator
 
 A simple and responsive Flutter application that allows students to **calculate their GPA (Grade Point Average)** based on course grades and credit values.
----
+
 Flutter ile geliştirilmiş ders not ortalaması hesaplama uygulaması
 
 ## Features
